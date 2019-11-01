@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/Songs/gameOn/Ice/05 gaseous tethanus.ogg</SourceFile>
+  <SourceTime>2012-10-15T19:42:17+02:00</SourceTime>
+  <DestFile>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/bin/Windows/Content/Assets/Songs/gameOn/Ice/05 gaseous tethanus.xnb</DestFile>
+  <DestTime>2019-05-14T16:28:52.6131564+03:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2018-12-08T18:35:54+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T18:35:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/bin/Windows/Content/Assets/Songs/gameOn/Ice/05 gaseous tethanus.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

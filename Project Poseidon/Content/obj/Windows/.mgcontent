@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/Songs/BossLevel/Ground/Apollo's Rebirth.mp3</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/Songs/BossLevel/Ice/F 777 - Toy Factory.mp3</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/Songs/gameOn/Ground/Beat 2.mp3</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/Songs/gameOn/Ice/05 gaseous tethanus.ogg</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/Songs/Menu/GameOverMenu/07 high in the mountains.ogg</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/Songs/Menu/LevelFinishMenu/10 running wild.ogg</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/Songs/Menu/LevelMenu/09_green_forest.mp3</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/Bullet/SoundEffect/bullet.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/Bullet/Sprites/Bullet.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/CannonShot/SoundEffect/FLS_Gun 001.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/CannonShot/Sprites/cannon_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/CannonShot/Sprites/cannon_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/CannonShot/Sprites/cannon_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/CannonShot/Sprites/cannon_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/CannonShot/Sprites/cannon_5.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/Explosion/SoundEffect/bulletHit.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/Explosion/Sprites/explosion_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/Explosion/Sprites/explosion_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/Explosion/Sprites/explosion_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/Explosion/Sprites/explosion_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/Explosion/Sprites/explosion_5.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/SnowballBreak/SoundEffect/070. Special Sounds For Music II - 70.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/SnowballBreak/Sprites/snowball_break_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/SnowballBreak/Sprites/snowball_break_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Animation/SnowballBreak/Sprites/snowball_break_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Drown/SoundEffect/waterSplash.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Die/Ground/zombie_die_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Die/Ground/zombie_die_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Die/Ground/zombie_die_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Die/Ground/zombie_die_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Die/Ground/zombie_die_5.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Die/Ground/zombie_die_6.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Die/Ice/zombie_ice_die_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Die/Ice/zombie_ice_die_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Die/Ice/zombie_ice_die_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Die/Ice/zombie_ice_die_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Die/Ice/zombie_ice_die_5.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Die/Ice/zombie_ice_die_6.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Hurt/Ground/zombie_hurt.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Hurt/Ice/zombie_ice_hurt.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Stand/Ground/zombieDefault.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Stand/Ice/zombie_ice_walk_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Walk/Ground/zombie_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Walk/Ground/zombie_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Walk/Ice/zombie_ice_walk_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Boss/Walk/Ice/zombie_ice_walk_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Die/Slime_Red_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Die/Slime_Red_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Die/Slime_Red_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Die/Slime_Red_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Drown/Slime_Red_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Hurt/Slime_Red_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Stand/Ground/Slime_Green_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Stand/Ice/Slime_Blue_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Walk/Ground/Slime_Green_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Walk/Ground/Slime_Green_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Walk/Ground/Slime_Green_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Walk/Ground/Slime_Green_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Walk/Ground/Slime_Green_5.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Walk/Ice/Slime_Blue_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Walk/Ice/Slime_Blue_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Walk/Ice/Slime_Blue_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Walk/Ice/Slime_Blue_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Slime/Walk/Ice/Slime_Blue_5.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Attack/SoundEffect/snowball.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Attack/Sprites/Snowman_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Attack/Sprites/Snowman_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Attack/Sprites/Snowman_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Die/snowman_die_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Die/snowman_die_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Die/snowman_die_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Die/snowman_die_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Die/snowman_die_5.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Drown/snowman_die_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Hurt/snowman_hurt.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Snowball/Snowball.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Stand/Snowman_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Snowman/Walk/Snowman_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Die/Ground/zombie_die_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Die/Ground/zombie_die_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Die/Ground/zombie_die_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Die/Ground/zombie_die_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Die/Ground/zombie_die_5.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Die/Ground/zombie_die_6.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Die/Ice/zombie_ice_die_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Die/Ice/zombie_ice_die_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Die/Ice/zombie_ice_die_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Die/Ice/zombie_ice_die_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Die/Ice/zombie_ice_die_5.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Die/Ice/zombie_ice_die_6.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Drown/Ground/zombie_die_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Drown/Ice/zombie_ice_die_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Hurt/Ground/zombie_hurt.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Hurt/Ice/zombie_ice_hurt.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Stand/Ground/zombieDefault.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Stand/Ice/zombie_ice_walk_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Walk/Ground/zombie_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Walk/Ground/zombie_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Walk/Ice/zombie_ice_walk_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Enemy/Zombie/Walk/Ice/zombie_ice_walk_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Die/SoundEffect/playerDeath.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Die/Sprites/player_die_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Die/Sprites/player_die_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Die/Sprites/player_die_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Die/Sprites/player_die_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Die/Sprites/player_die_5.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Drown/SoundEffect/SFX 8bit Drop.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Drown/Sprites/player_die_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Hurt/player_hurt.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Jump/SoundEffect/009. Special Sounds For Music II - 09.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Jump/Sprites/playerStand.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Melee/playerKick.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Stand/playerStand.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Walk/playerWalk_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Character/Player/Walk/playerWalk_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Cloud/1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Cloud/2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Cloud/3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Cloud/4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Cloud/5.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/AmmuIcon/AmmuIcon.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/Clock/Clock.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/Digits/digits.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/DistanceIcon/distanceIcn.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/EmptyStar/EmptyStar.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/Finger/SoundEffect/31. Special Sounds For Music - 31.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/Finger/Sprites/finger.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/FingerChoose/FingerChooseEnd/SoundEffect/end.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/FingerChoose/FingerChooseFull/SoundEffect/003. Special Sounds For Music II - 03.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/FingerChoose/FingerChooseStart/SoundEffect/start.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/FingerStuck/SoundEffect/Importer Blang SFX.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/FlagIcon/flag.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/FullStar/FullStar.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/GameOverMenu/GameOverMenu.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/Hearts/Heart_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/Hearts/Heart_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/Hearts/Heart_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/LevelFinishMenu/LevelFinishMenu.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/LevelMenu/LevelMenu.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/LockIcon/lockIcon.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/MuteIcon/0.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/MuteIcon/1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/PauseMenu/PauseMenu.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/StarIcon/0.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/StarIcon/1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/StartMenu/StartMenu.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/GUI/XIcon/x.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Item/Ammu/SoundEffect/LoadingAGun.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Item/Ammu/Sprites/Ammu.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Item/Coin/SoundEffect/coin.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Item/Coin/Sprites/Coin_1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Item/Coin/Sprites/Coin_2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Item/Coin/Sprites/Coin_3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Item/Coin/Sprites/Coin_4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Item/Key/Ground/SoundEffect/door_lock.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Item/Key/Ground/Sprites/Key.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Item/Key/Ice/SoundEffect/door_lock.wav</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Item/Key/Ice/Sprites/Key_Blue_Bg.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Level1/level1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Level10/Level10.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Level11/level11.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Level12/background02a.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Level2/Level2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Level3/Level3.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Level4/Level4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Level5/Level5.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Level6/Level6.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Level7/Level7.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Level8/Level8.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Level9/Level9.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Levels/Test.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/MaskInfo/Black/Black.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/MaskInfo/Blue/Blue.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/MaskInfo/Red/Red.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/MaskInfo/White/White.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/MaskInfo/Yellow/Yellow.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/MovingPlatform/Large/Special/Ice/IcePlat.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/MovingPlatform/Medium/Ground/RoundHalfSizedPlatform.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/MovingPlatform/Medium/Ice/RoundHalfSize.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/MovingPlatform/Medium/Special/Ice/IcePlat_small.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/MovingPlatform/Small/Ice/Snow_Tile_Square_Round.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Obsticle/Spike/Ground/Spike.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Obsticle/Spike/Ice/IceSpike.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Obsticle/Tree/Small/Ground/1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Obsticle/Tree/Small/Ground/6.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Obsticle/Tree/Small/Ground/7.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Obsticle/Tree/Small/Ice/1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Obsticle/Tree/Tall/Ground/4.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Obsticle/Tree/Tall/Ice/tall.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Obsticle/Tree/Wide/Ground/8.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Obsticle/Tree/Wide/Ice/1.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Obsticle/Tree/Wide/Ice/2.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Platform/SuperLong/Ground/long.png</File>
+    <File>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/SpritesAndEffects/Platform/SuperLong/Ice/Long.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

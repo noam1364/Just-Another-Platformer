@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProgressMode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProgressMode>ThreeStars</ProgressMode>
+  <ProgressMode>ThreeStars</ProgressMode>
+  <ProgressMode>TwoStars</ProgressMode>
+  <ProgressMode>ThreeStars</ProgressMode>
+  <ProgressMode>ThreeStars</ProgressMode>
+  <ProgressMode>OneStar</ProgressMode>
+  <ProgressMode>Open</ProgressMode>
+  <ProgressMode>Locked</ProgressMode>
+  <ProgressMode>Locked</ProgressMode>
+  <ProgressMode>Locked</ProgressMode>
+  <ProgressMode>Locked</ProgressMode>
+  <ProgressMode>Locked</ProgressMode>
+</ArrayOfProgressMode>

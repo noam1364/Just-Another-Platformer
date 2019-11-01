@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/Assets/Songs/gameOn/Ground/Beat 2.mp3</SourceFile>
+  <SourceTime>2018-07-18T18:09:20.840209+03:00</SourceTime>
+  <DestFile>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/bin/Windows/Assets/Songs/gameOn/Ground/Beat 2.xnb</DestFile>
+  <DestTime>2019-05-20T17:22:54.0369326+03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T18:35:54+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T18:35:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Workspaces/C# workspace/Project Poseidon/Project Poseidon/Content/bin/Windows/Assets/Songs/gameOn/Ground/Beat 2.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
